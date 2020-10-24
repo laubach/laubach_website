@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christopher D. Faulk | Zach Laubach</title>
+    <link>/author/christopher-d.-faulk/</link>
+      <atom:link href="/author/christopher-d.-faulk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christopher D. Faulk</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Christopher D. Faulk</title>
+      <link>/author/christopher-d.-faulk/</link>
+    </image>
+    
+    <item>
+      <title>Early life social and ecological determinants of global DNA methylation in wild spotted hyenas</title>
+      <link>/publication/laubach_et_al_mec_2019/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/laubach_et_al_mec_2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

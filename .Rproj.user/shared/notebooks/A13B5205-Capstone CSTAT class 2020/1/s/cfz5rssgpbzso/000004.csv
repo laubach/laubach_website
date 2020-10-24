@@ -1,0 +1,4 @@
+"0","cleandart2 <- dartsm%>% filter (total_solids !=0)
+"
+"2","Error in filter(., total_solids != 0) : object 'total_solids' not found
+"

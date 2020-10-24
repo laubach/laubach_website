@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1603469975281.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "655AA13E",
+    "lastKnownWriteTime" : 1603488451,
+    "last_content_update" : 1603488451369,
+    "path" : "~/Git/website/laubach_website/content/home/contact.md",
+    "project_path" : "content/home/contact.md",
+    "properties" : {
+        "cursorPosition" : "32,20",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 8,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "markdown"
+}
