@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "0",
+    "hash" : "3465441694",
     "id" : "51660CA0",
-    "lastKnownWriteTime" : 1603472333,
-    "last_content_update" : 1603472333426,
+    "lastKnownWriteTime" : 1603571849,
+    "last_content_update" : 1603571849306,
     "path" : "~/Git/website/laubach_website/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "17,25",
+        "cursorPosition" : "16,26",
         "scrollLine" : "0"
     },
     "read_only" : false,
