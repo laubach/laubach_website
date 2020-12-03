@@ -8,7 +8,7 @@ weight = 5  # Order that this section will appear.
 title = ""
 
 # Hero image (optional). Enter filename of an image in the `static/media/` folder.
-hero_media = ""
+hero_media = "research.png"
 
 
 [design.background]
