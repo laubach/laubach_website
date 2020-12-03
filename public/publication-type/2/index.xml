@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Zach Laubach</title>
+    <link>laubach.github.io/publication-type/2/</link>
+      <atom:link href="laubach.github.io/publication-type/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Tue, 10 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/laubach.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>laubach.github.io/publication-type/2/</link>
+    </image>
+    
+    <item>
+      <title>Early life social and ecological determinants of global DNA methylation in wild spotted hyenas</title>
+      <link>laubach.github.io/publication/laubach_et_al_mec_2019/</link>
+      <pubDate>Tue, 10 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>laubach.github.io/publication/laubach_et_al_mec_2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Epigenetics and the maintenance of developmental plasticity: extending the signalling theory framework</title>
+      <link>laubach.github.io/publication/laubach_et_al_bio_rev_2018/</link>
+      <pubDate>Sun, 21 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>laubach.github.io/publication/laubach_et_al_bio_rev_2018/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

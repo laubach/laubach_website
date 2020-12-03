@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Zach Laubach</title>
+    <link>laubach.github.io/project/</link>
+      <atom:link href="laubach.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><copyright>©2020</copyright><lastBuildDate>Sun, 01 Sep 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/laubach.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>laubach.github.io/project/</link>
+    </image>
+    
+    <item>
+      <title>Health and fitness consequences of early life experience</title>
+      <link>laubach.github.io/project/early_life_experience/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>laubach.github.io/project/early_life_experience/</guid>
+      <description>&lt;p&gt;In hyenas, humans and birds, my collaborators and I use life course models to test hypotheses about how the type and timing of early life social expereinces &amp;lsquo;get under an organism&amp;rsquo;s skin&amp;rsquo;. In particular we are investigating the molecular mechanisms that link social experience with development of persistent future phenotypes. Ulitmately, we are interested in the fitness consequences of these social experiences, and if these relationships are generalizeable across diverse taxa. Investigating these questions rely on collaborations and use of invaluable long-term data on spotted hyenas (The Mara Hyena Project), humans (Project Viva), and barn swallows (Safran Lab Barn Swallow Project).&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Toxoplasma gondii infection in spotted hyenas</title>
+      <link>laubach.github.io/project/toxo_gondii/</link>
+      <pubDate>Sun, 01 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>laubach.github.io/project/toxo_gondii/</guid>
+      <description>&lt;p&gt;Here we proposed to address two broad goals in this Morris Animal Foundation supported study, which included characterizing the epidemiology of &lt;em&gt;T. gondii&lt;/em&gt; prevalence in the Masai Mara ecosystem (Kenya, Africa), and exploring the effects of infection on host behavior, hormones and fitness. We are testing hypotheses related to these broader goals by focusing on spotted hyenas (&lt;em&gt;Crocuta crocuta&lt;/em&gt;) and using extensive demographic and behavioral data, as well as ecological and anthropogenic disturbance measurements from our 30+ years long Mara Hyena Project.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Mara Hyena Project</title>
+      <link>laubach.github.io/project/mhp/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>laubach.github.io/project/mhp/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
