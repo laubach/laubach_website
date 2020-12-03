@@ -27,7 +27,6 @@ interests:
 - Physiology
 - Evolution
 
-
 # Education to show in About widget
 education:
   courses:
@@ -82,8 +81,12 @@ highlight_name: false
 #   Remove this if you are not using the People widget.
 user_groups:
 - Principal Investigators
+
 ---
 
 My research is grounded in behavioral ecology and evolutionary biology. In particular, I try to understand the ways in which early life environments shape phenotype. I am drawn to questions that explore the interrelations among social behaviors, molecular mechanisms, and stress physiology. This has led me to use tools from diverse fields, including molecular biology and physiology to identify proximate mechanisms of animal behaviors and phenotypes; and causal inference methods from epidemiology to better understand relationships gleaned from observational data. I have carried out my research in wild birds and hyenas, and humans.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/cv.pdf" "newtab" >}}CV{{< /staticref >}}.
+
+  
+
